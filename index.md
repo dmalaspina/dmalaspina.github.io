@@ -1,6 +1,6 @@
-## David Cesar Malaspina, Ph.D.
+# David Cesar Malaspina, Ph.D.
 
-Hi! My name is David Cesar Malaspina, I'm a researcher in computational chemistry with focus on molecular simulations. Check out my [most recent publications](https://scholar.google.com/citations?user=Hd__uxUAAAAJ&hl=en)
+Hi! My name is David Cesar Malaspina, I'm a researcher in computational chemistry with focus on molecular simulations.
 
 Now I'm starting my journey on data science and machine learning.
 
@@ -9,7 +9,9 @@ Now I'm starting my journey on data science and machine learning.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.-->
 
-### Markdown
+## Publications
+
+Check out my [most recent publications](https://scholar.google.com/citations?user=Hd__uxUAAAAJ&hl=en)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
