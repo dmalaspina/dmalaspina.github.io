@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## David Cesar Malaspina
+
+Hi! My name is David Cesar Malaspina, I'm a researcher in computational chemistry with focus on molecular simulations and now starting my journey on data science and machine learning.
+
 
 You can use the [editor on GitHub](https://github.com/dmalaspina/dmalaspina.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
