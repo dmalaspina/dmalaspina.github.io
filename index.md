@@ -1,6 +1,8 @@
-## David Cesar Malaspina
+## David Cesar Malaspina, Ph.D.
 
-Hi! My name is David Cesar Malaspina, I'm a researcher in computational chemistry with focus on molecular simulations and now starting my journey on data science and machine learning.
+Hi! My name is David Cesar Malaspina, I'm a researcher in computational chemistry with focus on molecular simulations. Check out my [most recent publications](https://scholar.google.com/citations?user=Hd__uxUAAAAJ&hl=en)
+
+Now I'm starting my journey on data science and machine learning.
 
 
 You can use the [editor on GitHub](https://github.com/dmalaspina/dmalaspina.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
