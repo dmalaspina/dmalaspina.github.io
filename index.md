@@ -13,7 +13,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Check out my [most recent publications](https://scholar.google.com/citations?user=Hd__uxUAAAAJ&hl=en)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!--Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -37,8 +37,12 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dmalaspina/dmalaspina.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dmalaspina/dmalaspina.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.-->
 
-### Support or Contact
+### Follow me on Twitter
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Twitter](https://twitter.com/davidcmalaspina)
+
+
+
+<!--Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.-->
