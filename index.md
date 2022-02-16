@@ -1,3 +1,5 @@
+![texto](foto-pagina-2.png)
+
 ## Welcome
 
 Hi! My name is David Cesar Malaspina, I'm a researcher in computational chemistry with focus on molecular simulations.
