@@ -1,4 +1,4 @@
-![texto](foto-pagina-2.png)
+![texto](foto-pagina-2.png =512x512)
 
 ## Welcome
 
