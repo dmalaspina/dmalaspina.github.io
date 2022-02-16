@@ -1,4 +1,4 @@
-[](foto-pagina-2.png)
+![](foto-pagina-2.png)
 
 ## Welcome
 
