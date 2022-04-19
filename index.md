@@ -1,4 +1,4 @@
-![](foto-pagina-3.png =100x)
+![](foto-pagina-3.png)
 
 
 ## Welcome
