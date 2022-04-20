@@ -22,6 +22,12 @@ Now I'm starting my journey on data science and machine learning.
 
 Check out my [most recent publications](https://scholar.google.com/citations?user=Hd__uxUAAAAJ&hl=en)
 
+## My CV
+
+This is a short [CV of my profesional career](CV-DCMalaspina-short.pdf)
+
+[Linkedin profile](https://www.linkedin.com/in/davidcesarmalaspina-472512b1/)
+
 ### Follow me on Twitter
 
 [Twitter](https://twitter.com/davidcmalaspina)
