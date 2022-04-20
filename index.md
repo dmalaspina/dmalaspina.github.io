@@ -1,4 +1,4 @@
-<img src="foto-pagina-3.png" width="700">
+<img src="foto-pagina-3.png" width="300">
 
 ## Welcome
 
