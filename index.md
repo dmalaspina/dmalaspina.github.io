@@ -9,7 +9,8 @@ Now I'm starting my journey on data science and machine learning.
 ## Machine Learning and Data Science Projects
 
 Hierachical Clustering:
-[Hierachical clustering used to determine number of micelles in MD simulation](clustering/Clustering-trajectory.md)
+- [Hierachical clustering used to determine number of micelles in MD simulation](clustering/Clustering-trajectory.md)
+- [Neural networks using Pytorch]
 
 ## Other projects
 
