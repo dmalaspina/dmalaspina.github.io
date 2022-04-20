@@ -8,13 +8,15 @@ Now I'm starting my journey on data science and machine learning.
 
 ## Machine Learning and Data Science Projects
 
-Hierachical Clustering:
-- [Hierachical clustering used to determine number of micelles in MD simulation](clustering/Clustering-trajectory.md)
-- [Neural networks using Pytorch]
+### Hierachical Clustering:
+[Hierachical clustering used to determine number of micelles in MD simulation](clustering/Clustering-trajectory.md)
+
+### Neural Networks:
+[Neural networks using Pytorch]
 
 ## Other projects
 
-[Chitin Builder code for VMD](https://github.com/soft-matter-theory-at-icmab-csic/chitin_builder). Developed in collaboration with Prof. Jordi Faraudo at ICMAB-CSIC.
+[Chitin Builder plugin for VMD](https://github.com/soft-matter-theory-at-icmab-csic/chitin_builder). Developed in collaboration with Prof. Jordi Faraudo at ICMAB-CSIC.
 
 ## Publications
 
