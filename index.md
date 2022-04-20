@@ -1,5 +1,4 @@
-![](foto-pagina-3.png)
-
+<img src="foto-pagina-3.png" width="700">
 
 ## Welcome
 
@@ -9,7 +8,8 @@ Now I'm starting my journey on data science and machine learning.
 
 ## Machine Learning and Data Science Projects
 
-Supervised Learning:
+Hierachical Clustering:
+[Hierachical clustering used to determine number of micelles in MD simulation](clustering/Clustering-trajectory.md)
 
 ## Other projects
 
