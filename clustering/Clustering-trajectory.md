@@ -10,7 +10,7 @@ One possible way to determine the number of micelles is to classify the spatial 
 
 The simulations data and analisis is derived from [my published work](https://doi.org/10.1039/C8CP04505D) in collaboration with Silvia Illia-Tuset and Jordi Faraudo from ICMAB-CSIC.  
 
-<img src="WET/untitled.gif" width="700">
+<img src="untitled.gif" width="700">
 
 We are going to use **Numpy** for the arrays, **Scipy** for the hierachical clustering and **MDtraj** for loading the MD trajectory data
 
