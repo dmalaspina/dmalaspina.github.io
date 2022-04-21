@@ -12,7 +12,7 @@ Now I'm starting my journey on data science and machine learning.
 [Hierachical clustering used to determine number of micelles in MD simulation](clustering/Clustering-trajectory.md)
 
 ### Neural Networks:
-[Neural networks using Pytorch]
+[Neural networks using Pytorch](neural-network/Neural-networks.md)
 
 ## Other projects
 
