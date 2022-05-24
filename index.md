@@ -1,7 +1,5 @@
 <img src="foto-pagina-3.png" width="300">
 
-<img2 src="pixel-art-pc.gif" style="float: right">
-
 -----------------------------
 
 ## Welcome
@@ -12,6 +10,8 @@ Now I'm starting my journey on data science and machine learning.
 
 ------------------------------
 ## Machine Learning and Data Science Projects
+
+![image alt >](pixel-art-pc.gif)
 
 ### Hierachical Clustering:
 [Hierachical clustering used to determine number of micelles in MD simulation](clustering/Clustering-trajectory.md)
