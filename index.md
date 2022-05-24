@@ -1,6 +1,6 @@
 <img src="foto-pagina-3.png" width="300">
 
-<img src="pixel-art-pc.gif">
+<img2 src="pixel-art-pc.gif">
 
 -----------------------------
 
