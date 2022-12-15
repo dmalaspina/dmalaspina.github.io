@@ -32,7 +32,7 @@ Check out my [most recent publications](https://scholar.google.com/citations?use
 -----------------------------
 ## My CV
 
-This is a short [CV of my profesional career](CV-DCMalaspina-short.pdf)
+This is a short [CV of my profesional career](CV-DCMalaspina-2023.pdf)
 
 [Linkedin profile](https://www.linkedin.com/in/davidcesarmalaspina-472512b1/)
 
